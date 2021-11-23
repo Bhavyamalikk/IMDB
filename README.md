@@ -1,4 +1,4 @@
-# IMDB
+# IMDB Analysis
 ### DESCRIPTION:
 The IMDB dataset consists of two comma separated files (.csv) namely - movies & directors.
 The movies dataset consists of the names of the movies, release date, revenue, popularity etc. and the directors dataset consists of the names of the directors, their department and gender. 
